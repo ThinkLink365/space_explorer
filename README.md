@@ -3,7 +3,7 @@
 ## How to Compile and Run:
 Navigate to the directory containing the game files.
 Compile the game using the following command:
-gcc space_explorer.c space_solution.c -lm -o space_explorer
+## gcc space_explorer.c space_solution.c -lm -o space_explorer
 Run the game with the executable:
 ## On Windows:
 
